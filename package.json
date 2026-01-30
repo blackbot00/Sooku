@@ -9,6 +9,6 @@
     "dotenv": "^16.3.1",
     "mongoose": "^8.0.0",
     "node-telegram-bot-api": "^0.64.0",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^2.6.9"
   }
 }
